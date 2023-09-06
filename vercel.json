@@ -1,0 +1,6 @@
+{
+    "builds": [
+      { "src": "app.py", "use": "@now/python" }
+    ]
+  }
+  
