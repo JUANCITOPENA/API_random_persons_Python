@@ -2,7 +2,7 @@
 
 Este proyecto es una API de generación de datos de personas aleatorias desarrollada en Flask, una herramienta flexible para la construcción de aplicaciones web en Python. La API te permite obtener datos ficticios de personas, lo que resulta útil para pruebas, demostraciones y desarrollo de aplicaciones que requieren información de ejemplo.
 
-![CAPTURA DE PANTALLA]()
+![CAPTURA DE PANTALLA](API1.jpg)
 
 ## Archivos Clave
 
