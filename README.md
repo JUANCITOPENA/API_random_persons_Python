@@ -28,8 +28,8 @@ Este proyecto es una API de generación de datos de personas aleatorias desarrol
 
 ## Autor
 
-[Nombre del autor]
+[JUANCITO PEÑA]
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+Este proyecto está bajo la Licencia SIN LICENCIA. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
