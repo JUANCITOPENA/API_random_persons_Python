@@ -22,6 +22,10 @@ Este proyecto es una API de generación de datos de personas aleatorias desarrol
 
 4. Accede a la API y obtén datos de personas aleatorias.
 
+## Tutorial Escrito paso a paso:
+
+https://advisertecnology.com/index.php/2023/09/07/como-crear-una-api-de-generacion-de-datos-de-personas-aleatorias-con-flask/
+
 ## Contribución
 
 ¡Estamos abiertos a contribuciones! Si deseas mejorar este proyecto, no dudes en abrir un problema o enviar una solicitud de extracción.
